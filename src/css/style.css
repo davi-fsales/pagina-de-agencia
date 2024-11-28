@@ -266,8 +266,7 @@ body{
 
 .footer nav ul li a:hover{
     font-weight: 700;
-    background-color: white;
-    border-radius: 80%;
+    color: white;
 }
 
 .footer .social i{
